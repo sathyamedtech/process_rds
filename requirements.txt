@@ -1,0 +1,9 @@
+mne==1.6.1
+numpy==1.24.4
+scipy
+sqlalchemy>=1.4
+pyodbc
+python-dotenv==1.0.1
+joblib==1.4.2
+EntropyHub==2.0
+chardet==3.0.4  # optional if you still read some files
